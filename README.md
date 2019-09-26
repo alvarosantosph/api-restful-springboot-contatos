@@ -11,4 +11,4 @@ Local: Centro Universitário de João Pessoa - UNIPÊ
 ### Palestrantes:
 
 * Alvaro Santos
-* Rafael Castro
+* Rafael Castro - https://github.com/RafaelMatheus
