@@ -11,6 +11,7 @@ Local: Centro Universitário de João Pessoa - UNIPÊ
 <div align="left">
     <img src="https://img.shields.io/badge/-Java-royalblue?style=for-the-badge" alt="Java">
     <img src="https://img.shields.io/badge/-Spring%20Boot-forestgreen?style=for-the-badge" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/-Maven-darkmagenta?style=for-the-badge" alt="Maven">
 </div>
 
 ### Palestrantes:
