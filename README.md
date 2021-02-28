@@ -8,6 +8,11 @@ Data: 26/09/2019
 Local: Centro Universitário de João Pessoa - UNIPÊ
 ```
 
+<div align="left">
+    <img src="https://img.shields.io/badge/-Java-royalblue?style=for-the-badge" alt="Java">
+    <img src="https://img.shields.io/badge/-Spring%20Boot-forestgreen?style=for-the-badge" alt="Spring Boot">
+</div>
+
 ### Palestrantes:
 
 * Alvaro Santos
